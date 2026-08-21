@@ -34,7 +34,7 @@ I'm an IT student and passionate web developer with **6+ live projects** and **4
 
 - 📞 **Phone:** 08063667726
 - 📧 **Email:** safwandanladi800@gmail.com
-- 🔗 **Portfolio:** [safwandanladiportfolioplatform.netlify.app](https://safwandanladiportfolioplatform.netlify.app)
+- 🔗 **Portfolio:** [safwandanladiportfolioplatform.netlify.app](https://safwan-danladi.netlify.app/)
 - 💼 **LinkedIn:** [linkedin.com/in/safwan-danladi](https://linkedin.com/in/safwan-danladi)
 
 ---
