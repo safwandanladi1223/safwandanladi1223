@@ -26,7 +26,7 @@ I'm an IT student and passionate web developer with **6+ live projects** and **4
 | 🏨 **Safwan Hotel Palace** | Luxury Islamic hotel website | [View](https://safwanhotelpalace.netlify.app) |
 | 🛒 **Gata Smart Retail** | Electronics store with cart & checkout | [View](https://gatasmartplatform.netlify.app) |
 | 🗄️ **AI Database Generator** | SQL/Node.js code generator | [View](https://database-generator.netlify.app) |
-| 👨‍💻 **Smart Portfolio** | Personal portfolio | [View](https://safwandanladiportfolioplatform.netlify.app) |
+| 👨‍💻 **Smart Portfolio** | Personal portfolio | [View](https://safwan-danladi.netlify.app/) |
 
 ---
 
